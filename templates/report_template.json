@@ -1,0 +1,23 @@
+{
+    "run_info": {
+        "trigger_datetime": "",
+        "runtime": ""
+    },
+    "code_changes": {
+        "source_info": {
+            "release_id": "",
+            "commit_id": "",
+            "branch": ""
+        },
+        "target_info": {
+            "reference_report": "<filename for previous report>",
+            "release_id": "",
+            "commit_id": "",
+            "branch": ""
+        },
+        "diff": "filename for git diff between source/target"
+    },
+    "test_results": {
+        "test_id": "test_result_status"
+    } 
+}

@@ -1,0 +1,14 @@
+[new]
+# tests which have insufficent historical record to categories 
+
+[indicators]
+# tests that are most relivent for code changes
+
+[positive]
+# tests that are likely to pass and unlikely to be affected by code change
+
+[negative]
+# tests that are likely to pass and unlikely to be affected by code change
+
+[unstable]
+# tests that flip between states a lot regardless of code change
